@@ -1,0 +1,7 @@
+build/
+*.bin
+*.bin.gz
+.DS_Store
+
+# local only, never published
+mybuild.sh
