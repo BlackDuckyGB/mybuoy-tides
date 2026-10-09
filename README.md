@@ -58,7 +58,7 @@ array(
     'Version'  => 1,
     'FileSize'       => 187798600,
     'CompressedSize' => 21120501,
-    'Url'            => 'https://github.com/BlackDady/mybuoy-tides/releases/download/tides-v1/tides_world.bin.gz',
+    'Url'            => 'https://github.com/BlackDuckyGB/mybuoy-tides/releases/download/tides-v1/tides_world.bin.gz',
 ),
 ```
 
